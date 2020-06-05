@@ -3,5 +3,3 @@
 Testing
 
 New line
-
-The newest line
